@@ -1,1 +1,2 @@
 "Permanently come back here after commit 5"     
+Line added to be removed/reverted in the next commit
