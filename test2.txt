@@ -1,2 +1,3 @@
 ""      
 "Added new line to test2"      
+In the master branch
